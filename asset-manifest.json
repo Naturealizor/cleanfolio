@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.f3beb914.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.0065a87d.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.0065a87d.chunk.js.map",
-    "runtime-main.js": "/cleanfolio/static/js/runtime-main.e59c9d10.js",
-    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.e59c9d10.js.map",
-    "static/js/2.8ef3401b.chunk.js": "/cleanfolio/static/js/2.8ef3401b.chunk.js",
-    "static/js/2.8ef3401b.chunk.js.map": "/cleanfolio/static/js/2.8ef3401b.chunk.js.map",
+    "main.css": "/cleanfolio/static/css/main.e083f29e.chunk.css",
+    "main.js": "/cleanfolio/static/js/main.4857e14f.chunk.js",
+    "main.js.map": "/cleanfolio/static/js/main.4857e14f.chunk.js.map",
+    "runtime-main.js": "/cleanfolio/static/js/runtime-main.e47b3c55.js",
+    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.e47b3c55.js.map",
+    "static/js/2.a1eb8b1d.chunk.js": "/cleanfolio/static/js/2.a1eb8b1d.chunk.js",
+    "static/js/2.a1eb8b1d.chunk.js.map": "/cleanfolio/static/js/2.a1eb8b1d.chunk.js.map",
     "index.html": "/cleanfolio/index.html",
-    "static/css/main.f3beb914.chunk.css.map": "/cleanfolio/static/css/main.f3beb914.chunk.css.map",
-    "static/js/2.8ef3401b.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.8ef3401b.chunk.js.LICENSE.txt"
+    "static/css/main.e083f29e.chunk.css.map": "/cleanfolio/static/css/main.e083f29e.chunk.css.map",
+    "static/js/2.a1eb8b1d.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.a1eb8b1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e59c9d10.js",
-    "static/js/2.8ef3401b.chunk.js",
-    "static/css/main.f3beb914.chunk.css",
-    "static/js/main.0065a87d.chunk.js"
+    "static/js/runtime-main.e47b3c55.js",
+    "static/js/2.a1eb8b1d.chunk.js",
+    "static/css/main.e083f29e.chunk.css",
+    "static/js/main.4857e14f.chunk.js"
   ]
 }
